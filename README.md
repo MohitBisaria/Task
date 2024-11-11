@@ -1,7 +1,7 @@
 # Task
 # Doctor-Scraper: Extracting Doctor Data from Websites
 
-This repository contains a Python script designed to scrape doctor names and clinic addresses from two websites: bookimed.com and clinicsoncall.com. 
+This repository contains a Python script designed to scrape doctor names and clinic addresses from three websites: bookimed.com,clinicsoncall.com and us-uk.bookimed.com
 
 ## Setup
 
